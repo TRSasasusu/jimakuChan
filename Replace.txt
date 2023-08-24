@@ -2,6 +2,7 @@
 名産:なゆさん
 ないさん:なゆさん
 第3:なゆさん
+第三:なゆさん
 唐揚げさん:カラヤゲさん
 唐揚げ さん:カラヤゲさん
 からあげさん:カラヤゲさん
@@ -18,13 +19,40 @@
 幸田さん:サキトさん
 大和さん:ヤマトさん
 悦子さん:えつこさん
+ソニーさん:ふうみぃさん
+ふみさん:ふうみぃさん
+ゆきさん:ゆーきーさん
+駅さん:ゆーきーさん
+カーシアンさん:hearth1anさん
+カーシアン酸:hearth1anさん
+アジアン さん:hearth1anさん
+GB 3:GBさん
+餃子 さん:GBさん
+餃子さん:GBさん
 俺:これ
 もっと:MOD
+バッファロー:hello
+ハロー:hello
 フェルトスパー:Feldspar
+サイドスター:Feldspar
+フェルトスパ:Feldspar
 APEX:Riebeck
+リベック:Riebeck
+リーベックス:Riebeck
 がぶろ:Gabbro
 ガブロ:Gabbro
+チャート:Chert
+ストレート:Slate
+プレート:Slate
+スレート:Slate
+ダチュラ:Datura
+フレンド:Friend
 闇の 茨城:闇のイバラ
+闇の茨城:闇のイバラ
+いばら:イバラ
 アウター 倍率:Outer Wilds
+あなたはいつ:Outer Wilds
 エバキネーション:Evacuation
 アウトサイダー:The Outsider
+にこ:ニコ
+ニコン:ニコ
