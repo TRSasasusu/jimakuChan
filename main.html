@@ -18,17 +18,6 @@
     <link rel="icon" href="./img/favicon2/favicon.ico" />
     <script src="js/bouyomichan_client.js"></script>
 
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FKQVD3TMXH"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-
-    gtag('config', 'G-FKQVD3TMXH');
-    </script>
-    <!-- END: Google tag (gtag.js) -->
-
 
     <title>jimakuChan：音声認識字幕ちゃん</title>
 
@@ -185,7 +174,10 @@
                     sexual_words = sexual_words.filter(Boolean);
                 })
         }
-            
+
+
+        // 近い言葉を適切な言葉に置き換える
+        var replace_dict = {};
 
         // 音声認識本体 /////////////////////////////////////////////////
         window.SpeechRecognition = window.SpeechRecognition || webkitSpeechRecognition;
@@ -292,6 +284,11 @@
                                 recog_text = recog_text.replace(sexual_words[j], "***");
                             }
                         }
+                    }
+
+                    // 近い言葉に置き換える
+                    for (const key in replace_dict) {
+                        recog_text.replace(key, replace_dict[key]);
                     }
 
                     // 認識結果を表示する ---------------------
