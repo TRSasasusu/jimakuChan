@@ -97,6 +97,7 @@ skya さん:すかいあさん
 バッファロー:hello
 ハロー:hello
 マイヤ:まあいいや
+死ね:死ぬ
 フェルトスパー:Feldspar
 サイドスター:Feldspar
 フェルトスパ:Feldspar
