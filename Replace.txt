@@ -90,7 +90,9 @@ skya さん:すかいあさん
 コバトン サン:こばとんさん
 俺:これ
 もっと:MOD
+マット:MOD
 漁師:量子
+スタースター:スラスター
 あんこ:アンコウ
 うんこ:アンコウ
 ウンコ:アンコウ
@@ -101,26 +103,40 @@ skya さん:すかいあさん
 フェルトスパー:Feldspar
 サイドスター:Feldspar
 フェルトスパ:Feldspar
+ベルト スパ:Feldspar
 APEX:Riebeck
 リベック:Riebeck
 リーベックス:Riebeck
 エイベックス:Riebeck
 がぶろ:Gabbro
 ガブロ:Gabbro
+かぶら:Gabbro
+カプロ:Gabbro
+がメロ:Gabbro
+ガムの:Gabbro
+田中風呂:Gabbro
+かぶの:Gabbro
+外貨 ブラ:Gabbro
+カブの:Gabbro
 チャート:Chert
 エスカー:Esker
+安川:Esker
 ストレート:Slate
 プレート:Slate
 スレート:Slate
 フェリックス:Filix
 フィリックス:Filix
+フィックス:Filix
 ソルガム:Solanum
 ソラナム:Solanum
 ダチュラ:Datura
 ナチュラ:Datura
 フレンド:Friend
 段差亭:探査艇
+炭疽菌:探査艇
+炭素系:探査艇
 警察庁:偵察機
+警察機:偵察機
 リトルスカート:リトルスカウト
 愛の双子 バス プロジェクト:灰の双子星プロジェクト
 肺の双子橋 プロジェクト:灰の双子星プロジェクト
@@ -147,6 +163,8 @@ APEX:Riebeck
 きの LINE:木の炉辺
 キノロン:木の炉辺
 キロログイン:木の炉辺
+アトレ ロック:アトルロック
+アトル ロック:アトルロック
 巨人の大会:巨人の大海
 諸井 空洞:脆い空洞
 もろいくドア:脆い空洞は
@@ -160,6 +178,7 @@ APEX:Riebeck
 の舞:Nomai
 名前の遺跡:Nomaiの遺跡
 の前の遺跡:Nomaiの遺跡
+はた ワイルドベンチャーズ:Outer Wilds Ventures
 アウター 倍率:Outer Wilds
 アウターワイルズ:Outer Wilds
 アフターワイズ:Outer Wilds
@@ -168,6 +187,9 @@ APEX:Riebeck
 あんたはいつ:Outer Wilds
 エバキネーション:Evacuation
 エバ きれいしょう:Evacuation
+耶馬キュレーション:Evacuation
+エバキュレーション:Evacuation
+エバケーション:Evacuation
 アウトサイダー:The Outsider
 クリスマス ストーリー:Christmas Story
 オリジン:Origins
