@@ -300,9 +300,10 @@
 
                     // 近い言葉に置き換える
                     for (const key in replace_dict) {
-                        recog_text = recog_text.replace(key, replace_dict[key]);
+                        const re_key = new RegExp(key, 'g');
+                        recog_text = recog_text.replace(re_key, replace_dict[key]);
                     }
-                    console.log("replaced!");
+                    console.log("replaced with regex!");
                     console.log(replace_dict);
 
                     // 認識結果を表示する ---------------------
