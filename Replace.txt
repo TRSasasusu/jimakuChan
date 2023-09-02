@@ -32,6 +32,7 @@
 ふみさん:ふうみぃさん
 フーミーさん:ふうみぃさん
 ゆきさん:ゆーきーさん
+ゆうきさん:ゆーきーさん
 駅さん:ゆーきーさん
 カーシアンさん:hearth1anさん
 カーシアン酸:hearth1anさん
@@ -96,6 +97,7 @@ skya さん:すかいあさん
 マット:MOD
 漁師:量子
 スタースター:スラスター
+ビジョン同士:ビジョントーチ
 あんこ:アンコウ
 うんこ:アンコウ
 ウンコ:アンコウ
@@ -107,10 +109,15 @@ skya さん:すかいあさん
 サイドスター:Feldspar
 フェルトスパ:Feldspar
 ベルト スパ:Feldspar
+デート スパー:Feldspar
+クレトス ぱー:Feldspar
 APEX:Riebeck
 リベック:Riebeck
 リーベックス:Riebeck
 エイベックス:Riebeck
+リリベッカー:Riebeck
+リメック:Riebeck
+いい ベック:Riebeck
 がぶろ:Gabbro
 ガブロ:Gabbro
 かぶら:Gabbro
@@ -121,6 +128,8 @@ APEX:Riebeck
 かぶの:Gabbro
 外貨 ブラ:Gabbro
 カブの:Gabbro
+カメラ先輩:Gabbro先輩
+カメラ 先輩:Gabbro先輩
 チャート:Chert
 エスカー:Esker
 安川:Esker
@@ -132,6 +141,8 @@ APEX:Riebeck
 フィックス:Filix
 ソルガム:Solanum
 ソラナム:Solanum
+そら豆:Solanum
+ソラマメ:Solanum
 ダチュラ:Datura
 ナチュラ:Datura
 フレンド:Friend
