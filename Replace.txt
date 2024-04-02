@@ -242,12 +242,14 @@ APEX:Riebeck
 のまい:Nomai
 野舞:Nomai
 の舞:Nomai
+ドバイ:Nomai
 名前の遺跡:Nomaiの遺跡
 の前の遺跡:Nomaiの遺跡
 登録 ステーション:動力ステーション
 有利 物質:幽霊物質
 黄昏の金塊:黄昏の銀河
 黄昏の金貨:黄昏の銀河
+高校記録:航行記録
 はた ワイルドベンチャーズ:Outer Wilds Ventures
 アウター 倍率:Outer Wilds
 アウター 割引:Outer Wilds
